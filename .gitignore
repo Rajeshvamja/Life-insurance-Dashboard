@@ -1,0 +1,60 @@
+# =====================================
+# Life Insurance Dashboard
+# .gitignore
+# =====================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Node.js (if used later)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+
+# Build folders
+dist/
+build/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Zip archives
+*.zip
+
+# Local configuration
+config.local.js
